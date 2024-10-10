@@ -1,0 +1,9 @@
+#logo{
+    background-color: orange;
+}
+#website{
+    background-image:url("https://media.gettyimages.com/id/923561924/photo/traditional-wooden-steps-in-vintage-library.jpg?s=612x612&w=gi&k=20&c=9jVnyqAiD4YXwGTBjSqMNAkxxZjR-uCkWMfjVHSPmPE=");
+}
+*{
+    font-weight: bold;
+}
